@@ -15,7 +15,7 @@ This project focuses on analyzing **Swiggy’s food delivery sales data** using 
 
 ---
 
-## 🛠 Key SQL Concepts Used
+##  Key SQL Concepts Used
 
 * **Database Creation & Management**
 * **SQL Joins (INNER, LEFT, RIGHT, FULL, CROSS, SELF JOIN)**
@@ -59,7 +59,7 @@ This project focuses on analyzing **Swiggy’s food delivery sales data** using 
 * Dataset: [Swiggy Sales Analysis](https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view)
 ---
 
-## 📌 Author
+##  Author
 
 👩‍💻 **Disha Sindhi**
 
